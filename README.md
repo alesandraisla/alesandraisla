@@ -19,6 +19,7 @@
 💻 Front-End Development
 <br><br>
 <div align="left">
+  <img height="30" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img height="30" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img height="30" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img height="30" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -26,23 +27,27 @@
  <img height="30" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  </div>
  <br>
-
 🎨 ✍🏼 Design:
 <br><br>
-<img height="30" alt="Figma" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<div>
+
+<img height="30" alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img height="30" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+</div>
 <br>
 💻 Banco de Dados 
 <br><br>
  <img height="30" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- 
-<br>
+ <br>
 🔧 Tools and environments
 <br><br>
  <img height="30" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
  
+## My GitHub status:
 
+![Alesandra Isla github stats](https://github-readme-stats.vercel.app/api?username=AlesandraIsla&show_icons=true&theme=midnight-purple
+)
 
 
 ## About me
