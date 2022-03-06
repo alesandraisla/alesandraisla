@@ -38,6 +38,7 @@
 	<img height="30" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  	<img height="30" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 	<img height="30" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img height="30" alt="fdfd" src="https://camo.githubusercontent.com/ef3fcc0cf0f18b69a2857bf30db72e49daa884d3dade4f83738b8823696348f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465#:~:text=React,-.js">
 	<img height="30" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 	<img height="30" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  	<img height="30" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -46,13 +47,6 @@
 	<img height="30" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 	<img height="30" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </div>
-
-
-## My GitHub status:
-
-![Alesandra Isla github stats](https://github-readme-stats.vercel.app/api?username=AlesandraIsla&show_icons=true&theme=midnight-purple
-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesandraisla&theme=midnight-purple&layout=compact%22%20alt=%22alesandraisla)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/alesandraisla/alesandraisla/blob/output/github-contribution-grid-snake.svg)
 
