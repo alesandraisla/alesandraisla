@@ -14,7 +14,6 @@
 
 ## About me
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alesandramempis@gmail.com)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alesandraisla)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alesandramempis)
 <br />
 
@@ -23,14 +22,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
-
-❤️ interests:
-:feet:walk with dog 
-📚 read books,  
-🎮 play video games, 
-📺 watch movies, series and animes,
-🎶 listen to music.
 
 ## Languages and tools:
 
